@@ -18,3 +18,10 @@ other try's
 JS Class
 
 ![image](https://github.com/darksoului/ReactJS/assets/118845171/11b7ff54-c954-4c3c-a19b-2c564262a1ff)
+
+
+JS Array and key objects
+
+
+![image](https://github.com/darksoului/ReactJS/assets/118845171/137265de-92e2-4625-8c72-e8d614bffc29)
+
