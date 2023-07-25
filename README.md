@@ -7,7 +7,7 @@ card
 ![image](https://github.com/darksoului/ReactJS/assets/118845171/6e546ed7-12a7-4263-9226-bda72fd8fd36)
 
 
-other trid
+other try's
 
 
 
