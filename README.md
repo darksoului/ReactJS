@@ -34,6 +34,9 @@ JS FOREACH
 JS ForEach
 ![image](https://github.com/darksoului/ReactJS/assets/118845171/2961f096-4086-4c63-9888-ad6e3bb8c140)
 
+ASSIGNMENT WORK
+
+![image](https://github.com/darksoului/ReactJS/assets/118845171/9d69ec05-5e5e-476a-8e23-1fbda0c12449)
 
 
 .............
